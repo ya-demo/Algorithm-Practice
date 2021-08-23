@@ -1,5 +1,4 @@
 from random import randint
-import random
 # 原始資料
 location_count = randint(2, 5)
 locations = [ location for location in range(location_count) ]

@@ -1,6 +1,6 @@
 from random import randint
 # 原始資料
-stack1 = [2, 1]
+stack1 = [5, 4, 3, 2, 1]
 stack2 = []
 stack3 = []
 print('\n初始狀態')

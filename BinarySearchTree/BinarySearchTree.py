@@ -1,4 +1,3 @@
-from hashlib import new
 from random import randint
 
 # 原始資料
